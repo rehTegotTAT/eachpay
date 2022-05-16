@@ -8,6 +8,7 @@ public class EachpayApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EachpayApplication.class, args);
+        System.out.println("我服了");
     }
 
 }
